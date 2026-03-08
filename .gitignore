@@ -1,0 +1,6 @@
+.venv/
+.claude/
+scaffold.md
+
+*.pyc
+__pycache__/
