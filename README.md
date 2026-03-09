@@ -1,5 +1,5 @@
 # Maya Animation Validator
-
+[Full Blog Post](https://www.justinnappi.com/project/maya-animation-gateway)
 A Maya animation validation and FBX export tool built for game production pipelines. Validates joint hierarchies and animation curves against configurable pipeline rules before enforcing canonical export settings — blocking bad assets from reaching the engine before they cause problems.
 
 ---
