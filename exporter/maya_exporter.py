@@ -2,7 +2,7 @@
 
 import sys
 
-PROJECT_ROOT = "C:/your/project/path/maya_validator"
+PROJECT_ROOT = "D:\\DevProjects\\maya_validator"
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 

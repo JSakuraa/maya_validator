@@ -8,7 +8,7 @@ import sys
 
 # Add project root to Maya's Python path.
 # Adjust PROJECT_ROOT to match your actual project location.
-PROJECT_ROOT = "C:\\Users\\jtn80\\Code\\maya_validator"
+PROJECT_ROOT = "D:\\DevProjects\\maya_validator"
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
