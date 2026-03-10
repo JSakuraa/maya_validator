@@ -4,3 +4,5 @@ scaffold.md
 
 *.pyc
 __pycache__/
+
+.env
